@@ -14,7 +14,7 @@ public class PAC2Main {
 		game.tryPlay(Letters.U, 0);
 		game.tryPlay(Letters.B, 1);
 		game.tryPlay(Letters.N, 1);
-		game.tryPlay(Letters.O, 1);
+		game.tryPlay(Letters.O, 2);
 
 		System.out.println("Partides jugador guanyades:" + p1.getPartidesGuanyades());
 
